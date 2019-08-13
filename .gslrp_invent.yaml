@@ -1,0 +1,49 @@
+Love/Desaibody.love:
+  Description: degree 2 body load Love numbers from Desai 2002
+  lastupdate: 2019-08-13 16:06:18.057034
+Love/G-Bbody.love:
+  Description: Body Love numbers from the Gutenberg-Bullen model
+  lastupdate: 2019-08-13 16:06:49.864060
+Love/PREM.love:
+  Description: Elastic surface load Love numbers from the preliminary reference Earth
+    model
+  lastupdate: 2019-08-13 16:05:21.544536
+Love/PREM_Wang.love:
+  Description: Elastic load Love numbers from the dataset computed by Wang et al.
+    2012
+  lastupdate: 2019-08-13 16:04:26.429281
+Love/PREMbody.love:
+  Description: Elastic body load Love numbers from the preliminary reference Earth
+    model
+  lastupdate: 2019-08-13 16:05:33.265092
+Love/PREMhard_Wang.love:
+  Description: Elastic load Love numbers from the dataset computed by Wang et al.
+    2012
+  lastupdate: 2019-08-13 16:04:26.051708
+Love/PREMsoft_Wang.love:
+  Description: Elastic load Love numbers from the dataset computed by Wang et al.
+    2012
+  lastupdate: 2019-08-13 16:04:26.237390
+Love/Purcell2011GIA.ratio:
+  Description: Load love number ratios from Purcell et al 2011
+  lastupdate: 2019-08-13 16:09:31.490105
+Love/ak135_Wang.love:
+  Description: Elastic load Love numbers from the dataset computed by Wang et al.
+    2012
+  lastupdate: 2019-08-13 16:04:25.502026
+Love/ak135hard_Wang.love:
+  Description: Elastic load Love numbers from the dataset computed by Wang et al.
+    2012
+  lastupdate: 2019-08-13 16:04:25.319702
+Love/farrel.love:
+  Description: Surface load Love numbers from Farrel 1972
+  lastupdate: 2019-08-13 16:07:36.345793
+Love/iasp91_Wang.love:
+  Description: Elastic load Love numbers from the dataset computed by Wang et al.
+    2012
+  lastupdate: 2019-08-13 16:04:25.867644
+Love/iasp91hard_Wang.love:
+  Description: Elastic load Love numbers from the dataset computed by Wang et al.
+    2012
+  lastupdate: 2019-08-13 16:04:25.685441
+version: 1
